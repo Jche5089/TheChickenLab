@@ -8,13 +8,18 @@
    - 날씨에 따른 배달 주문량 예측을 통한 발주량 추천
 ### 기술 스택
 - programming language
-- python
-- scikit-learn
-- oracleDB
-- jquery
-- java
-- HTML
-- css
-- JS
-- git/github
-- Flask
+  - java
+  - HTML
+  - css
+  - JS
+  - python
+- DataBase
+  - oracleDB
+- Server
+  - apacheTomcat
+- Distributed revision tool
+  - git/github
+- Web Framework
+  - Flask
+- Machine Learning Library
+  - scikit-learn
